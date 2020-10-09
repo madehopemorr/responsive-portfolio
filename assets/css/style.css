@@ -1,0 +1,17 @@
+footer { 
+    position: fixed;
+    bottom: 0;
+    background-color: slategray;
+    border-top: 2px solid green;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    height: 60px;
+    color: white;
+}
+
+h1 {
+    color: teal;
+    text-align: fixed;
+}
+
