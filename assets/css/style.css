@@ -9,9 +9,17 @@ footer {
     height: 60px;
     color: white;
 }
-
-h1 {
-    color: teal;
-    text-align: fixed;
+.myhead {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    
+}
+.mycontact {
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+}
+.img-thumbnail {
+    align-items: center;
+    margin-left: 68px;
 }
 
