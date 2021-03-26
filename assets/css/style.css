@@ -1,25 +1,74 @@
 footer { 
     position: fixed;
     bottom: 0;
-    background-color: slategray;
-    border-top: 2px solid green;
+    background-color: rgb(47, 47, 56);
+    border-top: 2px solid, black;
     width: 100%;
     text-align: center;
     padding: 10px;
-    height: 60px;
+    height: 30px;
     color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
-.myhead {
-    font-family: 'Raleway', sans-serif;
-    text-align: center;
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-top: 20px;
+}
+
+h3 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+}
+
+h5 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
     
-}
 .mycontact {
     font-family: 'Raleway', sans-serif;
     text-align: left;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
+
 .img-thumbnail {
     align-items: center;
     margin-left: 68px;
 }
 
+.resume {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.container {
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.column {
+    width: 25%;
+    padding: 0 10px;
+}
+
+.column-profile {
+    float: right;
+}
+
+.card {
+    margin-bottom: 40px;
+}
