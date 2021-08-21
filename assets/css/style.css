@@ -31,6 +31,9 @@ h4 {
 }
 
 h5 {
+    padding: 8px;
+    margin: 0, 5px, 0, 0;
+    border: 2px solid;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
